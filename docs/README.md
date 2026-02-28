@@ -1,5 +1,7 @@
 # PYCODEI — Design Documentation
 
+> 日本語版ドキュメントは [docs/ja/](./ja/) にあります。
+
 This directory contains design documentation intended for **external maintainers and contributors** of the PYCODEI project.
 
 ## What is PYCODEI?
